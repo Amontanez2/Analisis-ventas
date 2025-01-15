@@ -26,13 +26,8 @@ Este proyecto analiza datos de ventas utilizando **Python**, con herramientas co
 1. Clona este repositorio:
 git clone https://github.com/Amontanez2/analisis-ventas.git
 
-css
-Copiar código
 2. Navega al directorio del proyecto y ejecuta el script:
 python analisis_ventas.py
-
-shell
-Copiar código
 
 ## Resultado
 ¡Obtendrás insights sobre los datos de ventas y gráficos visuales!
